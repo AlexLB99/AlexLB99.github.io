@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About myself"
 title_separator          : "-"
 name                     : &name "Alex Le Blanc"
 description              : &description "PhD student at the University of Waterloo"
