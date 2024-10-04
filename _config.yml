@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aurora_crop.jpg"
+  avatar           : "aurora_crop_new.jpg"
   name             : "Alex Le Blanc"
   pronouns         : # example: "she/her"  
   bio              : "ECE PhD student"
