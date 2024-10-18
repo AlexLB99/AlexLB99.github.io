@@ -6,7 +6,7 @@ permalink: /publication/2024-ISC
 excerpt: 'Emulation makes dynamic analysis easier, but emulation of Android kernels is rarely supported. We proposed a tool (LiLi) that makes it eaiser to emulate Android kernel images. We then fuzzed some kernels, and found 4 zero-day vulnerabilities (some high-severity).'
 date: 2024-10-24
 venue: 'Proceedings of ISC'
-paperurl: 'http://academicpages.github.io/files/2024-ISC.pdf'
+paperurl: 'http://alexlb99.github.io/files/2024-ISC.pdf'
 ---
 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
